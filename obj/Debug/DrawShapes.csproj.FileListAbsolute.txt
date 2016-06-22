@@ -1,0 +1,6 @@
+E:\My SW\Serg's tasks\DrawShapes\DrawShapes\bin\Debug\DrawShapes.exe.config
+E:\My SW\Serg's tasks\DrawShapes\DrawShapes\bin\Debug\DrawShapes.exe
+E:\My SW\Serg's tasks\DrawShapes\DrawShapes\bin\Debug\DrawShapes.pdb
+E:\My SW\Serg's tasks\DrawShapes\DrawShapes\obj\Debug\DrawShapes.csprojResolveAssemblyReference.cache
+E:\My SW\Serg's tasks\DrawShapes\DrawShapes\obj\Debug\DrawShapes.exe
+E:\My SW\Serg's tasks\DrawShapes\DrawShapes\obj\Debug\DrawShapes.pdb
